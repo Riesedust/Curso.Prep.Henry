@@ -44,7 +44,7 @@ function agregarStringInvertida() {
     }
     return stringInvertida;
   }
-  //busqué este punto
+  //busqué este punto 
 }
 
 // ---------------------------------------------------------------------------//
