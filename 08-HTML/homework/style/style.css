@@ -1,0 +1,36 @@
+img{
+    width: 400px;
+    height: 200px;
+    float: right;
+}
+h1{
+    color: royalblue;
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+h2{
+    text-decoration-line: underline;
+}
+
+.descripcion{
+    justify-content: center;
+    width: 400px;
+    height: 260px;
+    padding: 20px;
+    border: 8px solid blue;
+    background-color: mediumaquamarine;
+}
+.parrafo{
+    line-height: 120%;
+}
+
+.listas {
+    font-size: 20px;
+}
+#skill{
+    width: 300px;
+    height: 200px;
+    border: 4px double aqua;
+    background-color: lavenderblush;
+}

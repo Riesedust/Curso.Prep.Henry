@@ -1,0 +1,18 @@
+h1 {
+    color: deepskyblue;
+}
+img {
+    width: 400px;
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: lightgreen;
+    padding: 50px;
+    border-color: limegreen;
+    border-style: outset;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
