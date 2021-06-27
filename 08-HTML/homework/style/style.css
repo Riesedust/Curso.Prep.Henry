@@ -1,3 +1,6 @@
+html{
+    background-color: rgb(236, 236, 122);
+}
 img{
     width: 400px;
     height: 200px;
@@ -29,8 +32,28 @@ h2{
     font-size: 20px;
 }
 #skill{
+    position: relative;
+    top: -250px;
+    left: 550px;
     width: 300px;
     height: 200px;
     border: 4px double aqua;
     background-color: lavenderblush;
+}
+
+.educacion{
+    position: absolute;
+    top: 100px;
+    left: 500px;
+    width: 400px;
+    height: 300px;
+}
+
+#hobbies{
+    position: absolute;
+    top: 300px;
+    left: 1000px;
+    width: 200px;
+    height: 300px;
+    text-align: center;
 }
